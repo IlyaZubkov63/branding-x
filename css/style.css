@@ -1,0 +1,166 @@
+.conteiner {
+    max-width: 1440px;
+    width: 100%;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 64px;
+    padding-right: 64px;
+    border-bottom: 1px solid rgb(158 158 158 / 31%);
+    
+}
+
+.inner {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(158 158 158 / 31%);;
+}
+
+.info {
+    padding: 88px 0 0 72px;
+}
+
+.one {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 55px;
+    margin-bottom: 0px;
+}
+
+.two {
+    font-family: 'Urbanist', sans-serif;
+    font-size: 18px ;
+}
+
+.intro__img {
+    width: 400px;
+    height: 600px;
+}
+
+.button__1 {
+    display: flex;
+    
+}
+
+
+.contact__us {
+    width: 240px;
+    height: 45px;
+    background-color: orangered;
+    overflow: hidden;
+    font-family: 'Urbanist', sans-serif;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 25px;
+    border: 0px solid;
+}
+
+.contact__us:hover {
+    background-color: blanchedalmond;
+    color: black;
+
+
+}
+
+.contact__us:focus {
+    color: chartreuse;
+}
+
+.our__project {
+    width: 240px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    font-family: 'Urbanist', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 25px;
+    margin: 0 0 0 40px;
+    border: 1px solid black;
+
+}
+
+.our__project:hover {
+    background-color: orangered;
+    color: papayawhip;
+}
+
+.our__project:focus {
+    color: chartreuse;
+}
+
+.inner__2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.text__3 {
+    font-family: 'Urbanist', sans-serif; 
+    font-size: 45px;
+    margin: 35px 0 0 72px;
+}
+
+.browse__all {
+    width: 240px;
+    height: 45px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    font-family: 'Urbanist', sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 17px;
+    margin: 114px 72px 0 0px;
+    border: 1px solid black;
+   
+}
+
+.browse__all:hover {
+    background-color: orangered;
+    color: papayawhip;
+}
+
+.browse__all:focus {
+    color: rgb(136, 172, 9);
+} 
+
+.card__1 {
+    font-family: 'Urbanist', sans-serif;
+}
+
+
+.all__text {
+
+    font-family: 'Urbanist', sans-serif;
+}
+
+.branding {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.slash {
+    color: red;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 72px 0 72px;
+}
+
+.card__2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 72px 0 72px;
+}
+
+
+
+
+
+
+ 
+
+ 
+
